@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css' 
+import {NavLink } from 'react-router-dom';
 
 function Navbar() {
 return(
@@ -8,7 +9,15 @@ return(
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Home</a>
+          <NavLink
+          to="/home"
+          end
+          className={({ isActive}) =>
+        isActive ? 'nav-link active' : 'nav-link'
+      }
+      >
+        Home
+      </NavLink>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Project Gallery</a>
