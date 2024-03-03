@@ -20,8 +20,15 @@ return(
       </NavLink>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Project Gallery</a>
-        </li>
+        <NavLink
+          to="/Projects"
+          end
+          className={({ isActive}) =>
+        isActive ? 'nav-link active' : 'nav-link'
+      }
+      >
+        Projects
+      </NavLink>        </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Contact</a>
         </li>
