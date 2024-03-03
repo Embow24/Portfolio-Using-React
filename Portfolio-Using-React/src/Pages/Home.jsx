@@ -4,7 +4,7 @@ import React from 'react'
 function Home() {
     return (
         <div>
-            <Hero backgroundImage ="">
+            <Hero href ='./assets/images/Hero banner.png'>
 <h1>Emily Kent's Portfolio</h1>
 <h2>Learn a little more about me</h2>
             </Hero>
