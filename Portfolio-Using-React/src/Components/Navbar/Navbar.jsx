@@ -21,17 +21,26 @@ return(
         </li>
         <li className="nav-item">
         <NavLink
-          to="/Projects"
+          to="/projects"
           end
           className={({ isActive}) =>
         isActive ? 'nav-link active' : 'nav-link'
       }
       >
         Projects
-      </NavLink>        </li>
+      </NavLink>        
+      </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Contact</a>
-        </li>
+        <NavLink
+          to="/contact"
+          end
+          className={({ isActive}) =>
+        isActive ? 'nav-link active' : 'nav-link'
+      }
+      >
+        Contact
+      </NavLink>         
+      </li>
       </ul>
     </div>
   </div>
