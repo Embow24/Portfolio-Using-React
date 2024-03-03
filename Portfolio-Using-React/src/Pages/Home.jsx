@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Hero from '../Components/Hero/Hero.jsx'
 
 function Home() {
     return (
         <div>
-            <Hero href ='./assets/images/Hero banner.png'>
+            <Hero src ='./assets/images/HeroBanner.png'>
 <h1>Emily Kent's Portfolio</h1>
 <h2>Learn a little more about me</h2>
             </Hero>
@@ -16,8 +16,8 @@ function Home() {
                     Alongside this, opportunities to work collaboratively within a group to generate a unique website or application has also been provided.
                     With this growing knowledge being obtained from these studies, an eager desire to utilse these newly created skills within a professional environent has arisen and an excitement to continue this knowledge journey is consistently active.</p>
                 <aside>
-                    <image>
-                    </image>
+                    <img src="./assets/images/selfie.jpeg">
+                    </img>
                 </aside>
             </div>
         </div>
