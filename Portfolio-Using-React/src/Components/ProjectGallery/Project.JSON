@@ -1,10 +1,44 @@
-{
-    "project" : [
-        {"projectName":"Work Day Planner", "Description":"Created using HTML, CSS, Javacript, JQuery and day.js", "Deployed":"", "GitHub":"", "Screenshot":""},
-        {"projectName":"Coding Quiz", "Description":"Created using HTML, CSS and JavaScript", "Deployed":"", "GitHub":"", "Screenshot":""},
-        {"projectName":"Password Generator", "Description":"Created using HTML, CSS and JavaScript", "Deployed":"", "GitHub":"", "Screenshot":""},
-        {"projectName":"Weather Dashboard", "Description":"Created using HTML, CSS, JavaScript, JQuery, day.js and open weather API", "Deployed":"", "GitHub":"", "Screenshot":""},
-        {"projectName":"Healthy Bites Group Project", "Description":"Created using HTML, CSS, JavaScript, JQuery, Spoonacular and Pexels APIs", "Deployed":"", "GitHub":"", "Screenshot":""},
-        {"projectName":"Team Profile Generator", "Description":"Created Using JavaScript, npm inquirer and npm jest to generate a HTML file", "Deployed":"", "GitHub":"", "Screenshot":""}
-    ]
-}
+[
+  {
+    "projectName": "Work Day Planner",
+    "description": "Created using HTML, CSS, Javacript, JQuery and day.js",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  },
+  {
+    "projectName": "Coding Quiz",
+    "description": "Created using HTML, CSS and JavaScript",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  },
+  {
+    "projectName": "Password Generator",
+    "description": "Created using HTML, CSS and JavaScript",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  },
+  {
+    "projectName": "Weather Dashboard",
+    "description": "Created using HTML, CSS, JavaScript, JQuery, day.js and open weather API",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  },
+  {
+    "projectName": "Healthy Bites Group Project",
+    "description": "Created using HTML, CSS, JavaScript, JQuery, Spoonacular and Pexels APIs",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  },
+  {
+    "projectName": "Team Profile Generator",
+    "description": "Created Using JavaScript, npm inquirer and npm jest to generate a HTML file",
+    "deployed": "",
+    "gitHub": "",
+    "screenshot": ""
+  }
+]
