@@ -1,0 +1,10 @@
+{
+    "project" : [
+        {"projectName":"Work Day Planner", "Description":"Created using HTML, CSS, Javacript, JQuery and day.js", "Deployed":"", "GitHub":"", "Screenshot":""},
+        {"projectName":"Coding Quiz", "Description":"Created using HTML, CSS and JavaScript", "Deployed":"", "GitHub":"", "Screenshot":""},
+        {"projectName":"Password Generator", "Description":"Created using HTML, CSS and JavaScript", "Deployed":"", "GitHub":"", "Screenshot":""},
+        {"projectName":"Weather Dashboard", "Description":"Created using HTML, CSS, JavaScript, JQuery, day.js and open weather API", "Deployed":"", "GitHub":"", "Screenshot":""},
+        {"projectName":"Healthy Bites Group Project", "Description":"Created using HTML, CSS, JavaScript, JQuery, Spoonacular and Pexels APIs", "Deployed":"", "GitHub":"", "Screenshot":""},
+        {"projectName":"Team Profile Generator", "Description":"Created Using JavaScript, npm inquirer and npm jest to generate a HTML file", "Deployed":"", "GitHub":"", "Screenshot":""}
+    ]
+}
