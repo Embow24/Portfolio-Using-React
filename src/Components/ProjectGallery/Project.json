@@ -1,4 +1,4 @@
-[
+var project = [
   {
     "projectName": "Work Day Planner",
     "description": "Created using HTML, CSS, Javacript, JQuery and day.js",
@@ -41,3 +41,5 @@
     "screenshot": ""
   }
 ]
+
+export default project;

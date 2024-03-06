@@ -1,6 +1,6 @@
 
 
-export default function Project({item}){
+function Project({item}){
 const displayCard = (item) => {
 return (
     <div className="card" style="width: 18rem;">
@@ -19,3 +19,5 @@ return (
           </li>
     )
 }
+
+export default Project
